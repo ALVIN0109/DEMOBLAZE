@@ -18,7 +18,7 @@ var input_data = [
     { title : 'Login without password!', username : 'admin',password : '', id:'TC_L-00005'},
     { title : 'Login incorrect username!', username : 'admins',password : 'admin', id:'TC_L-00006'},
     { title : 'Login incorrect password!', username : 'admin',password : 'admins', id:'TC_L-00007'}, 
-    { title : 'Login with correct username and password!', username : 'admin',password : 'admin', id:'TC_L-00008' },
+    { title : 'Login with correct username and password, Then Logout!', username : 'admin',password : 'admin', id:'TC_L-00008' },
 ];
 
 ```
