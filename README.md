@@ -6,6 +6,12 @@
   npm install
   node test.js
 ```
+## Execution Environment 
+```sh
+OS: Windows 10 - 64bit
+Device: PC
+Browser: Chrome Version 101.0.4951.67
+```
 
 ## Edit Test Data
 
