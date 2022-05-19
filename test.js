@@ -40,7 +40,7 @@ async function start_test(){
     let driver = await new Builder().forBrowser("chrome").build();
 
     //maximize chrome browser
-    driver.manage().window().maximize();
+    await driver.manage().window().maximize();
 
     //open url
     await driver.get(WEB_URL);
