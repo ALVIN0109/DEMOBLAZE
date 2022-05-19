@@ -10,7 +10,7 @@ const MODAL_LOGIN_ID = By.id('logInModal');
 const USERNAME_ID = By.id('loginusername');
 const PASSWORD_ID = By.id('loginpassword');
 const LOG_IN_BTN = By.xpath('//*[@id="logInModal"]/div/div/div[3]/button[2]');
-const LOGOUT_ID = By.id('logout2s');
+const LOGOUT_ID = By.id('logout2');
 const LOGIN_CLOSE_ID = By.xpath('//*[@id="logInModal"]/div/div/div[3]/button[1]');
 
 
